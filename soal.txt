@@ -1,0 +1,23 @@
+Nama:Ahmad Januar Amri
+NPM:19312162
+Kode Soal: B
+
+1. Sistem apa yang anda kembangkan?
+Jawab: Sistem Berbasis Website untuk Klinik Kesehatan
+
+2. Permasalahan apa yang terjadi pada studi kasus anda?
+Jawab: Klinik Bersalin XYZ merupakan penyedia layanan kesehatan yang menyediakan beragam layanan seperti pemeriksaan kehamilan, persalinan, imunisasi balita, pelayanan KB, hingga pemeriksaan kesehatan. Namun, saat ini, klinik belum menerapkan sistem informasi terintegrasi, yang menyebabkan ketidakefektifan dan ketidakefisiensian dalam proses registrasi pasien, pelaporan, dan pembayaran. Hal ini menghasilkan peningkatan beban kerja, penumpukan berkas, kesulitan dalam mencari informasi, dan risiko kehilangan data penting.
+
+3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
+Jawab:1.Meningkatkan Efisiensi Operasional
+2.Meningkatkan Kualitas Layanan
+3.Mengintegrasikan Data
+4.Mengurangi Antrian
+5.Mengotomatisasi Pelaporan
+
+4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
+Jawab:4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
+
+
+5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
+Jawab:Keterbatasan Anggaran dana Ketidaktersediaan Sumber Daya Manusia
